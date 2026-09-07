@@ -2,6 +2,8 @@
 
 Focus Garden é um temporizador de concentração multiplataforma. Durante cada sessão, a paisagem evolui gradualmente; ao concluir o tempo, o bosque é salvo no histórico local do usuário.
 
+**Kotlin Multiplatform · Compose Multiplatform · Android · Desktop · Web/Wasm**
+
 <p align="center">
   <img src="./previews/focus-garden-preview.png" alt="Focus Garden preview" width="900">
 </p>
