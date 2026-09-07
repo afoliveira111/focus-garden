@@ -2,19 +2,30 @@
 
 Focus Garden é um temporizador de concentração multiplataforma. Durante cada sessão, a paisagem evolui gradualmente; ao concluir o tempo, o bosque é salvo no histórico local do usuário.
 
-**Kotlin Multiplatform · Compose Multiplatform · Android · Desktop · Web/Wasm**
+## 🌐 Live Demo
 
 <p align="center">
-  <img src="./previews/focus-garden-preview.png" alt="Focus Garden preview" width="900">
+  <a href="https://focus-garden-kmp.netlify.app">
+    <img src="https://img.shields.io/badge/Open%20Focus%20Garden-Live%20Demo-2ea44f?style=for-the-badge" alt="Open Focus Garden">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Kotlin Multiplatform · Compose Multiplatform · Android · Desktop · Web/Wasm</strong>
+</p>
+
+<p align="center">
+  <a href="https://focus-garden-kmp.netlify.app">
+    <img src="./previews/focus-garden-preview.png" alt="Focus Garden preview" width="900">
+  </a>
+</p>
+
+<p align="center">
+  <em>Click the preview to try Focus Garden in your browser.</em>
 </p>
 
 O projeto compartilha interface, regras de negócio e recursos visuais entre navegador, Android e desktop.
 
-### 🌐 Live Demo
-
-**[Open Focus Garden](https://focus-garden-kmp.netlify.app)**
-
-**Kotlin Multiplatform · Compose Multiplatform · Android · Desktop · Web/Wasm**
 
 ## Funcionalidades
 
