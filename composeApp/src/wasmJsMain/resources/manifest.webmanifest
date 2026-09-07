@@ -1,0 +1,14 @@
+{
+  "name": "Focus Garden",
+  "short_name": "Garden",
+  "description": "Cultive paisagens enquanto mantém o foco.",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#19382c",
+  "theme_color": "#19382c",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
