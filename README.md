@@ -10,6 +10,12 @@ Focus Garden é um temporizador de concentração multiplataforma. Durante cada 
 
 O projeto compartilha interface, regras de negócio e recursos visuais entre navegador, Android e desktop.
 
+### 🌐 Live Demo
+
+**[Open Focus Garden](https://focus-garden-kmp.netlify.app)**
+
+**Kotlin Multiplatform · Compose Multiplatform · Android · Desktop · Web/Wasm**
+
 ## Funcionalidades
 
 - Temporizador com durações rápidas de 15, 25, 45 e 60 minutos
